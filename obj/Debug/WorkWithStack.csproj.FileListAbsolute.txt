@@ -1,0 +1,8 @@
+c:\users\jhamm014089\documents\visual studio 2015\Projects\WorkWithStack\WorkWithStack\bin\Debug\WorkWithStack.exe.config
+c:\users\jhamm014089\documents\visual studio 2015\Projects\WorkWithStack\WorkWithStack\bin\Debug\WorkWithStack.exe
+c:\users\jhamm014089\documents\visual studio 2015\Projects\WorkWithStack\WorkWithStack\bin\Debug\WorkWithStack.pdb
+c:\users\jhamm014089\documents\visual studio 2015\Projects\WorkWithStack\WorkWithStack\obj\Debug\WorkWithStack.csprojResolveAssemblyReference.cache
+c:\users\jhamm014089\documents\visual studio 2015\Projects\WorkWithStack\WorkWithStack\obj\Debug\WorkWithStack.exe
+c:\users\jhamm014089\documents\visual studio 2015\Projects\WorkWithStack\WorkWithStack\obj\Debug\WorkWithStack.pdb
+c:\users\jhamm014089\documents\visual studio 2015\Projects\WorkWithStack\WorkWithStack\bin\Debug\Tools.dll
+c:\users\jhamm014089\documents\visual studio 2015\Projects\WorkWithStack\WorkWithStack\bin\Debug\Tools.pdb
